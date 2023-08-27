@@ -1,6 +1,0 @@
-Fid,Airline,from,to,date,departure time,arrival time,price
-A01,Indigo,Lucknow,Delhi,01-09-2023,12:40p.m.,2:25p.m.,4000
-A02,Air India,Lucknow,Banglore,03-09-2023,3:20p.m.,6:00p.m.,5000
-A03,Vistara,Mumbai,Delhi,04-09-2023,5:00pm,8:00p.m.,6000
-A04,AirAsia India,Delhi,Gujarat,04-09-2023,12:00p.m.,4:00p.m.,4500
-A05,Indigo,Chennai,Lucknow,07-09-2023,8:00a.m.,12:00p.m.,5500
